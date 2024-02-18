@@ -17,4 +17,6 @@ use (
 	./zhuru
 	./zuhe
 	./go-net-deamon
+	./work-pool
+	./large-files-over-tcp
 )
