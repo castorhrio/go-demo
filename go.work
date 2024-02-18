@@ -1,0 +1,20 @@
+go 1.21.1
+
+use (
+	./bibao
+	./context_dome
+	./demo1
+	./fanshe
+	./fenbusuo
+	./jiekou
+	./leixin
+	./lianshi
+	./shengchengqi
+	./tasksum
+	./tongdao
+	./tuichu
+	./xiecheng
+	./zhuru
+	./zuhe
+	./go-net-deamon
+)
