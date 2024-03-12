@@ -8,4 +8,5 @@ use (
 	./go-net-deamon
 	./work-pool
 	./large-files-over-tcp
+	./blog-api
 )
