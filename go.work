@@ -9,4 +9,5 @@ use (
 	./work-pool
 	./large-files-over-tcp
 	./blog-api
+	./stack_structure
 )
