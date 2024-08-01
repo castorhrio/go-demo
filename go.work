@@ -11,4 +11,5 @@ use (
 	./blog-api
 	./stack_structure
 	./dependency-injection
+	./tcp-scanner
 )
